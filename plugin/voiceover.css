@@ -1,0 +1,65 @@
+canvas{
+  margin: 20px 5px 5px 25px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgba(1,0,0,0.3);
+}
+
+#mysearch{
+  /*float: right;*/
+  width: 250px;
+  height: 40px;
+  border-style: bold;
+  border-width: 2px;
+  border-color: rgba(0,0,0,0.3);
+  /*padding: 2px 2px 2px 0;*/
+  font-weight: bold;
+  margin-left: 250px;
+  font-size: 1em;
+  /*margin-top:10px;*/
+  text-align: center;
+}
+
+#message{
+  float: right;
+  border-style: bold;
+  border-width: 2px;
+  border-color: black;
+  font-weight: bold;
+  margin-left: 250px;
+  font-size: 1em;
+  /*margin-top:10px;*/
+  text-align: center;
+}
+
+#image_change{
+  /*float: right;*/
+  border-style: bold;
+  border-width: 2px;
+  border-color: rgba(0,0,0,0.3);
+  padding: 2px 2px 2px 0;
+  font-weight: bold;
+  margin-left: 550px;
+  font-size: 1em;
+  margin-top:-10px;
+  text-align: center;
+}
+
+span{
+  color:red;
+}
+h2{
+  margin-left: 20px;
+  font-family:Verdana Italic;
+}
+div{
+  padding-bottom: 10px;
+}
+
+body{
+   width:780px;
+   height:580px;
+}
+/*.container{
+  background-color: yellow;
+}*/
