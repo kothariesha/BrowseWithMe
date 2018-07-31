@@ -2,6 +2,8 @@
 
 This codebase allows you to run the server side code for BrowseWithMe system.
 
+Please refer to our [paper](https://www.ischool.utexas.edu/~dannag/publications/2018_BrowseWithMe.pdf) and [video] (https://www.youtube.com/watch?v=lUH5sWDSGuw&feature=youtu.be) for more details.
+
 If you use this in your research, please cite the following papers:
 
 ```sh
@@ -38,4 +40,4 @@ sh run_server.sh "http://www.sophiecliff.com/wp-content/uploads/2015/10/asos-gli
 
 5) Note that BrowseWithMe.py contains the code for complete system (including NLP), however the website tags change frequently hence the NLP codebase needs to be updated for running sucessfully. 
 
-
+6) In case you have any questions please contact: Esha Kothari (eshakothari, at sign, utexas dot edu)
