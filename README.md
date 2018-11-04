@@ -1,8 +1,6 @@
 # BrowseWithMe
 BrowseWithMe - Deep Learning and Plugin Code
 
-This code is freely available for research and academic purposes only.
-
 Please refer to our [paper](https://www.ischool.utexas.edu/~dannag/publications/2018_BrowseWithMe.pdf) and [video](https://www.youtube.com/watch?v=lUH5sWDSGuw&feature=youtu.be) for more details.
 
 If you use this in your research, please cite the following papers:
